@@ -1,6 +1,11 @@
-# Hilary’s Data Analytics Portfolio
+# Hi, I’m Hilary, and this is my Data Analytics Portfolio! 👋
 
-Welcome! This portfolio showcases two data analysis projects demonstrating skills in business analytics, operations insight, and data visualization.
+I’m transitioning into data analytics with a strong background in tech and administrative work. I love turning raw data into clear insights and actionable dashboards that help teams make decisions.
+
+These projects highlight my ability to:
+- Clean and analyze data
+- Create pivot tables and charts
+- Build dashboards and visualize business insights
 
 ## Projects
 
