@@ -10,7 +10,7 @@ These projects highlight my ability to:
 ## Projects
 
 ### 1. BMW Global Sales Analysis (2018–2025)
-![BMW Dashboard](bmw-sales-analysis/bmw-dashboard.png)
+![BMW Dashboard](bmw-sales-analysis/bmw-sales-dashboard.png)
 - Analyzed BMW global sales data by region, model, and year
 - Created pivot tables and visualizations for trends and market share
 - Tools: Google Sheets, pivot tables, charts
@@ -21,4 +21,4 @@ These projects highlight my ability to:
 - Analyzed support ticket data for workload, issue types, and resolution times
 - Built pivot tables, calculated metrics, and visualized trends
 - Tools: Google Sheets, pivot tables, charts
-- [View Project Folder](customer-support-operations-dashboard)
+- [View Project Folder](customer-support-dashboard)
